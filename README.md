@@ -5,7 +5,7 @@
 
 ```bash
 $ npm install  gen-icon --dev
-$ yarn global  gen-icon --dev
+$ yarn add  gen-icon --dev
 ```
 （mac 遇到权限问题,在安装命令前加  sudo 即可）
 
