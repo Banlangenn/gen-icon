@@ -40,7 +40,7 @@ $ npx @banlangen/gen-icon  --input-path https://at.alicdn.com/t/xxxxxxx.css --ou
 
 |   Option               |      Description           |  Required     | Default value              |
 | :---------------------: | :-------------------------: | :------------: | :-------------------------: |
-| npx gen-icon              | 命令主体 | true | N/A |
+| @banlangen/gen-icon             | 命令主体 | true | N/A |
 | --output-path           | 输出文件路径(路径的上的文件夹必须存在) | true	| N/A |
 | --input-path            | 输入URL，[阿里巴巴矢量图标库](https://www.iconfont.cn/)项目的文件下载url |true	| N/A  |
 | --input-cookie          | 鉴权cookie, [阿里巴巴矢量图标库](https://www.iconfont.cn/)项目的用户标识cookie |true	| N/A |
