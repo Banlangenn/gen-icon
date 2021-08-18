@@ -9,7 +9,7 @@ $ yarn add  gen-icon --dev
 ```
 （mac 遇到权限问题,在安装命令前加  sudo 即可）
 
-* 建议：直接使用npx @banlangen/gen-icon 无需安装
+* 建议：直接使用npx pkgName 无需安装
 # explain
 依赖: 
 - [@antmjs/iconfont](https://www.npmjs.com/package/@antmjs/iconfont)
@@ -23,7 +23,7 @@ $ npx gen-icon --input-path https://at.alicdn.com/t/xxxxxxx.css --output-path sr
 ```bash
 $ npx @banlangen/gen-icon  --input-path https://at.alicdn.com/t/xxxxxxx.css --output-path src/iconfont.less  --input-cookie EGG_SESS_ICONFONT=U8AXvqwxxxless
 ```
-竟然差不多~沃日， 所以推荐不安装(--input-cookie 必填)
+竟然差不多~沃日， 所以推荐不安装, 使用 npx pkgName(--input-cookie 必填)
 ## API
 
 支持两种模式
