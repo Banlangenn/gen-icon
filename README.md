@@ -37,7 +37,7 @@ $ npx @banlangen/gen-icon  --input-path https://at.alicdn.com/t/xxxxxxx.css --ou
 
 
 ### 二. 图标更新，bu需要更新--input-path 
-（windows 可能会缺少zip  unzip 命令，请自行安装，mac 遇到权限问题,在安装命令前加  sudo 即可）
+（windows 可能会缺少zip  unzip 命令，请自行安装，mac 遇到权限问题,命令前加  sudo 即可）
 
 |   Option               |      Description           |  Required     | Default value              |
 | :---------------------: | :-------------------------: | :------------: | :-------------------------: |
