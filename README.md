@@ -36,7 +36,7 @@ $ npx gen-icon  --input-path https://at.alicdn.com/t/xxxxxxx.css --output-path s
 | --input-path            | 输入URL，[阿里巴巴矢量图标库](https://www.iconfont.cn/)项目的css文件url |true	| N/A  |
 
 
-### 二. 图标更新，需要更新--input-path 
+### 二. 图标更新，bu需要更新--input-path 
 
 |   Option               |      Description           |  Required     | Default value              |
 | :---------------------: | :-------------------------: | :------------: | :-------------------------: |
