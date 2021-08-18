@@ -11,7 +11,7 @@ $ yarn add  gen-icon --dev
 
 * 建议：直接使用npx pkgName 无需安装
 ## explain
-依赖: 
+**依赖:** 
 - [@antmjs/iconfont](https://www.npmjs.com/package/@antmjs/iconfont)
 ## Example usage
 
@@ -37,6 +37,8 @@ $ npx @banlangen/gen-icon  --input-path https://at.alicdn.com/t/xxxxxxx.css --ou
 
 
 ### 二. 图标更新，bu需要更新--input-path 
+
+**windows 可能会缺少zip  unzip 命令，请自行安装**
 
 |   Option               |      Description           |  Required     | Default value              |
 | :---------------------: | :-------------------------: | :------------: | :-------------------------: |
