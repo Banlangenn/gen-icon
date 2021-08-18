@@ -21,7 +21,7 @@ $ npx gen-icon --input-path https://at.alicdn.com/t/xxxxxxx.css --output-path sr
 ```
 > 不安装
 ```bash
-$ npx gen-icon  --input-path https://at.alicdn.com/t/xxxxxxx.css --output-path src/iconfont.less  --input-cookie EGG_SESS_ICONFONT=U8AXvqwxxxless
+$ npx @banlangen/gen-icon  --input-path https://at.alicdn.com/t/xxxxxxx.css --output-path src/iconfont.less  --input-cookie EGG_SESS_ICONFONT=U8AXvqwxxxless
 ```
 竟然差不多~沃日， 所以推荐不安装(--input-cookie 必填)
 ## API
