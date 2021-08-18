@@ -1,0 +1,44 @@
+{
+  "name": "gen-icon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "gen-icon": "index.js"
+  },
+  "description": "阿里巴巴矢量图标库自动生前端css文件",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://registry.npmjs.org"
+  },
+  "keywords": [
+    "iconfont",
+    "taro"
+  ],
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/Banlangenn/gen-icon"
+  },
+  "bugs": {
+    "url": "https://github.com/Banlangenn/gen-icon/issues/new"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6.4",
+    "yarn": ">=1.22"
+  },
+  "browserslist": [
+    "Chrome >= 35",
+    "ChromeAndroid >= 35",
+    "iOS >= 8",
+    "Safari >= 8",
+    "Android >= 4.1",
+    "QQAndroid >= 4.1",
+    "UCAndroid >= 4.1"
+  ],
+  "scripts": {
+    "build": "",
+    "test:watch": "",
+    "test": ""
+  }
+}
