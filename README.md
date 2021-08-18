@@ -10,10 +10,10 @@ $ yarn add  gen-icon --dev
 （mac 遇到权限问题,在安装命令前加  sudo 即可）
 
 * 建议：直接使用npx pkgName 无需安装
-# explain
+## explain
 依赖: 
 - [@antmjs/iconfont](https://www.npmjs.com/package/@antmjs/iconfont)
-## Example usage:
+## Example usage
 
 > 安装
 ```bash
